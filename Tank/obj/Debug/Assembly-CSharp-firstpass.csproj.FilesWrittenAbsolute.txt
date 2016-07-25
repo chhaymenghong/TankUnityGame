@@ -1,0 +1,17 @@
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/UnityEngine.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/UnityEditor.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mchhay/Desktop/TankUnityGame/Tank/Temp/bin/Debug/Mono.Cecil.Mdb.dll
